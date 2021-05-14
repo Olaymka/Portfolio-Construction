@@ -2,7 +2,7 @@
 Here is a link of a cookbook which tests and shows how to use the python functions and modules which are curently implemented : 
 https://nbviewer.jupyter.org/github/Olaymka/Portfolio-Construction/blob/main/cookbook.ipynb#
 
-This repository is dedicated to the progressive implementation and maintenance of various and state-to-the art techniques related to investment management decisions, portfolio construction and allocation techniques. This notebook will allow me to implement, save and test (understand backtest here) these optimization and allocation techniques. 
+This repository is dedicated to the progressive implementation and maintenance of various and state-to-the art techniques related to investment management decisions, portfolio construction and allocation techniques.
 
 Please, know that I am still learning and do not hesitate to make constructive comments.  
 
